@@ -1,0 +1,19 @@
+body{
+background-image:url(images/phon2.jpg);
+}
+img{
+width:600px;
+height:400px;	
+}
+.comp:hover {
+background-color: black;
+color: blue;
+border: none;
+}
+button {
+background-color: white;
+color: red;
+width: 150px;
+height: 50px;
+border-radius: 10%;
+}

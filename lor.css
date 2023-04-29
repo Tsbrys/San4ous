@@ -1,0 +1,36 @@
+body{
+background-image:url(images/white.jpg);    
+}
+p {
+background-color: brown;
+border: 2px solid silver;
+color:white;
+}
+.Noth{
+float:left;    
+}
+button {
+background-color: white;
+color: red;
+width: 150px;
+height: 50px;
+border-radius: 10%;
+}
+.comp:hover {
+background-color: black;
+color: blue;
+border: none;
+}
+.snaphot{
+margin-left:1580px;
+}
+.blogers{
+width:500px;
+height:400px;
+margin-left:700px;	
+}
+.lor-form{
+margin-top:20px;	
+	
+	
+}

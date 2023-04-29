@@ -1,0 +1,95 @@
+body{
+background-image:url(images/phon.jpg);
+}
+.nasva {
+
+color:yellow;
+}
+button {
+background-color: white;
+color: red;
+width: 150px;
+height: 50px;
+border-radius: 10%;
+}
+.comp:hover {
+background-color: black;
+color: blue;
+border: none;
+}
+.comp2:hover{
+background-color:yellow;
+color:green;
+border:white;	
+}
+.comp3:hover{
+background-color:lime;
+color:black;
+border:5px dashed blue;	
+}
+h3{
+color:white;
+}
+/*
+.img{
+width:350px;
+height:250px;
+left:500px;
+position:absolute;
+}
+.img2{
+width:350px;
+height:250px;
+position:absolute;
+left:900px;
+top:290px;
+}
+*/
+a{
+text-decoration:none;
+color:green;
+}
+/*
+.img3{
+width:350px;
+height:250px;
+position:absolute;
+left:1300px;
+bottom:450px;
+}
+.img4{
+width:350px;
+height:250px;
+position:absolute;
+left:1200px;
+top:800px;	
+}
+.img5{
+width:350px;
+height:250px;
+position:absolute;
+left:220px;
+top:270px;	
+}
+*/
+.block_center>img{
+	width: 350px;
+	height: 250px;
+}
+.left_menu{
+	width: 11%;
+	display: inline-block;
+}
+.block_center{
+	width: 75%;
+	display: inline-block;
+}
+.login{
+	width: 11%;
+	display: inline-block;
+	vertical-align: top;
+	
+}
+.login form .comp{
+	margin-top: 200px;
+}
